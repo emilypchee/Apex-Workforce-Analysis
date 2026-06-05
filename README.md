@@ -1,6 +1,7 @@
 # Apex Systems — People & Workforce Analytics Dashboard
 
 ![Dashboard 1 Overview](images/Apex_Workplace_Analysis_1.png)
+![Dashbpard 2 Overview](images/Apex_Workplace_Analysis_2.png)
 
 ## Overview
 This Power BI dashboard analyzes workforce health across **Apex Systems**, a mid-size B2B tech company. Built on a synthetic HR dataset modeled after real enterprise People Analytics use cases, the project surfaces insights across the full employee lifecycle from hiring pipeline to attrition root causes.
